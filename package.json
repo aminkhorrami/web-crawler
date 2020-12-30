@@ -4,7 +4,8 @@
   "description": "a crawler for searching a specific word in a web page",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
