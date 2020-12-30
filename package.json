@@ -21,6 +21,7 @@
   "homepage": "https://github.com/aminkhorrami/web-crawler#readme",
   "dependencies": {
     "isomorphic-fetch": "^3.0.0",
-    "jsdom": "^16.4.0"
+    "jsdom": "^16.4.0",
+    "telegraf": "^3.38.0"
   }
 }
